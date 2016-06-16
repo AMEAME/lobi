@@ -60,29 +60,51 @@ void display(Term *terms, int n)
 
 int main()
 {
-    int i, n;
+    // -- nを入力させます。--
+    int n;
     printf("n = ");
     scanf("%d", &n);
 
-    Term terms[n + 1];
+    // -- aを入力させます。 --
+    int a[n + 1];
+    int i;
     
-    for (i = n; 0 <= i; i--)
+    for (i = 0; i < n + 1; i++)
     {
+        int index = n - i;
         int coefficient;
-        printf("a%d = ", i);
+        printf("a%d = ", index);
         scanf("%d", &coefficient);
-        Term term = {"x", coefficient, i};
-        terms[i] = term;
+        a[index] = coefficient;
     }
     
+    // -- f(x)を表示
     printf("f(x) = ");
-    display(terms, n);
     
-    differentiate(terms, n);
+    for (i = 0; i < n + 1; i++)
+    {
+        int index = n - i;
+        if (a[index] == 0) continue;
+        if (i != 0) printf(" + ");
+        if (a[index] != 1) printf("%d", a[index]);
+        if (index > 0) printf("x");
+        if (index < -1 || 1 < index) printf("^%d", index);
+    }
+    printf("\n");
     
+    // -- f(x)を表示
     printf("f'(x) = ");
-    display(terms, n);
     
+    for (i = 0; i < n + 1; i++)
+    {
+        int index = n - i;
+        if (a[index] * index == 0) continue;
+        if (i != 0) printf(" + ");
+        if (a[index] * index != 1) printf("%d", a[index] * index);
+        if (index > 1) printf("x");
+        if (index < 0 || 2 < index) printf("^%d", index - 1);
+    }
+    printf("\n");
     
     return 0;
 }
