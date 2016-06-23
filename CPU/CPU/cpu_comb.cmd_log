@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/ike/Desktop/ISE_workspace/CPU/cpu_comb.xst" -ofn "C:/Users/ike/Desktop/ISE_workspace/CPU/cpu_comb.syr" 
