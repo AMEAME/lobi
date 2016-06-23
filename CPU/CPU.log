@@ -1,0 +1,497 @@
+This is e-pTeX, Version 3.14159265-p3.7-160201-2.6 (utf8.sjis) (TeX Live 2016/W32TeX) (preloaded format=platex 2016.5.15)  24 JUN 2016 08:52
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**c:/Users/ike/Desktop/lobi/CPU/CPU.tex
+(c:/Users/ike/Desktop/lobi/CPU/CPU.tex
+pLaTeX2e <2016/05/07> (based on LaTeX2e <2016/03/31>)
+Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
+(e:/w32tex/share/texmf-dist/tex/platex/base/jreport.cls
+Document Class: jreport 2006/06/27 v1.6 Standard pLaTeX class
+\c@@paper=\count81
+(e:/w32tex/share/texmf-dist/tex/platex/base/jsize12.clo
+File: jsize12.clo 2006/06/27 v1.6 Standard pLaTeX file (size option)
+)
+\c@part=\count82
+\c@chapter=\count83
+\c@section=\count84
+\c@subsection=\count85
+\c@subsubsection=\count86
+\c@paragraph=\count87
+\c@subparagraph=\count88
+\c@figure=\count89
+\c@table=\count90
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\symmincho=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
+(Font)                  JY1/mc/m/n --> JY1/gt/m/n on input line 669.
+\toclineskip=\dimen118
+\@lnumwidth=\dimen119
+\bibindent=\dimen120
+\heisei=\count91
+)
+(e:/w32tex/share/texmf-dist/tex/latex/here/here.sty)
+(e:/w32tex/share/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count92
+\float@exts=\toks15
+\float@box=\box41
+\@float@everytoks=\toks16
+\@floatcapt=\box42
+)
+(e:/w32tex/share/texmf-dist/tex/latex/comment/comment.sty
+\CommentStream=\write3
+
+Excluding comment 'comment')
+(e:/w32tex/share/texmf-dist/tex/latex/listings/listings.sty
+(e:/w32tex/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+\lst@mode=\count93
+\lst@gtempboxa=\box43
+\lst@token=\toks18
+\lst@length=\count94
+\lst@currlwidth=\dimen121
+\lst@column=\count95
+\lst@pos=\count96
+\lst@lostspace=\dimen122
+\lst@width=\dimen123
+\lst@newlines=\count97
+\lst@lineno=\count98
+\lst@maxwidth=\dimen124
+
+(e:/w32tex/share/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count99
+\lst@skipnumbers=\count100
+\lst@framebox=\box44
+)
+(e:/w32tex/share/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+(e:/w32tex/share/texmf-dist/tex/latex/fancybox/fancybox.sty
+Package: fancybox 2010/05/15 1.4
+
+Style option: `fancybox' v1.4 <2010/05/15> (tvz)
+\@fancybox=\box45
+\shadowsize=\dimen125
+\@Sbox=\box46
+\do@VerbBox=\toks19
+\the@fancyput=\toks20
+\this@fancyput=\toks21
+\EndVerbatimTokens=\toks22
+\Verbatim@Outfile=\write4
+\Verbatim@Infile=\read1
+) (e:/w32tex/share/texmf-dist/tex/platex/base/ascmac.sty
+Package: ascmac 2016/04/15 v2.0b ascmac wrapper (community edition) 
+
+(e:/w32tex/share/texmf-dist/tex/platex/base/tascmac.sty
+Package: tascmac 2016/04/15 v2.0b ascmac package (community edition) 
+\@savetbaselineshift=\dimen126
+\@saveybaselineshift=\dimen127
+\scb@x=\box47
+\scscb@x=\box48
+\@bw=\dimen128
+\@nbox=\box49
+\@nbody=\box50
+\@scw=\dimen129
+\@itemh=\dimen130
+\@iboxpos=\toks23
+\@iboxstr=\box51
+\@bwsp=\box52
+\@@bwsp=\box53
+\@bcal=\count101
+\shaderule=\dimen131
+))
+(e:/w32tex/share/texmf-dist/tex/latex/framed/framed.sty
+Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
+\OuterFrameSep=\skip43
+\fb@frw=\dimen132
+\fb@frh=\dimen133
+\FrameRule=\dimen134
+\FrameSep=\dimen135
+)
+(e:/w32tex/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(e:/w32tex/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/05/09 v1.0r Standard LaTeX Graphics (DPC,SPQR)
+
+(e:/w32tex/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(e:/w32tex/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/01/02 v1.10 sample graphics configuration
+)
+Package graphics Info: Driver file: dvipdfmx.def on input line 96.
+
+(e:/w32tex/share/texmf-dist/tex/latex/dvipdfmx-def/dvipdfmx.def
+File: dvipdfmx.def 2016/04/06 v4.08 LaTeX color/graphics driver for dvipdfmx (T
+eX Live/ChoF)
+
+(e:/w32tex/share/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(e:/w32tex/share/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)))
+\Gin@req@height=\dimen136
+\Gin@req@width=\dimen137
+)
+(e:/w32tex/share/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\labelindent=\skip44
+\enit@outerparindent=\dimen138
+\enit@toks=\toks24
+\enit@inbox=\box54
+\enitdp@description=\count102
+) (./CPU.aux)
+\openout1 = `CPU.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+\c@lstlisting=\count103
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <17.28> on input line 63.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 63.
+
+[1
+
+]
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <24.88> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 66.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <24.88> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 66.
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 69.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 69.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 71.
+ (e:/w32tex/share/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 71.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 84.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 84.
+ [1
+
+] [2] [3
+
+] [4]
+File: apu_op44_1.png Graphic file (type bmp)
+
+<apu_op44_1.png>
+Overfull \hbox (28.45274pt too wide) in paragraph at lines 240--240
+ [] 
+ []
+
+File: apu_op44_2.png Graphic file (type bmp)
+<apu_op44_2.png>
+Overfull \hbox (28.45274pt too wide) in paragraph at lines 241--241
+ [][] 
+ []
+
+File: apu_op44_3.png Graphic file (type bmp)
+<apu_op44_3.png>
+Overfull \hbox (28.45274pt too wide) in paragraph at lines 242--242
+ [][] 
+ []
+
+[5] [6] [7] [8
+
+]
+File: op_decode_1.png Graphic file (type bmp)
+ <op_decode_1.png>
+Overfull \hbox (28.45274pt too wide) in paragraph at lines 418--418
+ [] 
+ []
+
+[9]
+File: op_decode_2.png Graphic file (type bmp)
+ <op_decode_2.png>
+Overfull \hbox (28.45274pt too wide) in paragraph at lines 419--419
+ [][] 
+ []
+
+File: op_decode_3.png Graphic file (type bmp)
+<op_decode_3.png>
+Overfull \hbox (28.45274pt too wide) in paragraph at lines 420--420
+ [][] 
+ []
+
+[10] [11]
+Overfull \hbox (0.66263pt too wide) in paragraph at lines 464--465
+[]\JY1/mc/m/n/12 マルチプレクサ \OT1/cmr/m/n/12 mux3, mux4 \JY1/mc/m/n/12 の \O
+T1/cmr/m/n/12 ver-ilog \JY1/mc/m/n/12 モジ ュ ールとテストのソ ースコ ード\OT1/
+cmr/m/n/12 , mux3.v, mux3[]tb.v,
+ []
+
+[12
+
+] [13] [14]
+File: mux3_1.png Graphic file (type bmp)
+ <mux3_1.png>
+Overfull \hbox (28.45274pt too wide) in paragraph at lines 637--637
+ [] 
+ []
+
+File: mux3_2.png Graphic file (type bmp)
+<mux3_2.png>
+Overfull \hbox (28.45274pt too wide) in paragraph at lines 638--638
+ [][] 
+ []
+
+File: mux3_3.png Graphic file (type bmp)
+<mux3_3.png>
+Overfull \hbox (28.45274pt too wide) in paragraph at lines 639--639
+ [][] 
+ []
+
+[15]
+File: mux4_1.png Graphic file (type bmp)
+ <mux4_1.png>
+Overfull \hbox (28.45274pt too wide) in paragraph at lines 644--644
+ [] 
+ []
+
+File: mux4_2.png Graphic file (type bmp)
+<mux4_2.png>
+Overfull \hbox (28.45274pt too wide) in paragraph at lines 645--645
+ [][] 
+ []
+
+File: mux4_3.png Graphic file (type bmp)
+<mux4_3.png>
+Overfull \hbox (28.45274pt too wide) in paragraph at lines 646--646
+ [][] 
+ []
+
+[16] [17] [18] [19
+
+] [20]
+Overfull \hbox (1.4022pt too wide) in paragraph at lines 840--841
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+] 
+ []
+
+
+Overfull \hbox (1.4022pt too wide) in paragraph at lines 841--842
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][] 
+ []
+
+
+Overfull \hbox (1.4022pt too wide) in paragraph at lines 842--843
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][] 
+ []
+
+
+Overfull \hbox (1.4022pt too wide) in paragraph at lines 843--845
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][] 
+ []
+
+
+Overfull \hbox (1.4022pt too wide) in paragraph at lines 845--846
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][] 
+ []
+
+
+Overfull \hbox (1.4022pt too wide) in paragraph at lines 846--847
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][] 
+ []
+
+
+Overfull \hbox (1.4022pt too wide) in paragraph at lines 847--848
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][] 
+ []
+
+
+Overfull \hbox (1.4022pt too wide) in paragraph at lines 848--850
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+] 
+ []
+
+
+Overfull \hbox (1.4022pt too wide) in paragraph at lines 850--851
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+] 
+ []
+
+
+Overfull \hbox (1.4022pt too wide) in paragraph at lines 851--852
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][] 
+ []
+
+
+Overfull \hbox (1.4022pt too wide) in paragraph at lines 852--853
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][] 
+ []
+
+
+Overfull \hbox (1.4022pt too wide) in paragraph at lines 853--855
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][] 
+ []
+
+
+Overfull \hbox (1.4022pt too wide) in paragraph at lines 855--856
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][] 
+ []
+
+
+Overfull \hbox (1.4022pt too wide) in paragraph at lines 856--857
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][] 
+ []
+
+
+Overfull \hbox (1.4022pt too wide) in paragraph at lines 857--858
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][] 
+ []
+
+
+Overfull \hbox (1.4022pt too wide) in paragraph at lines 858--860
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][] 
+ []
+
+
+Overfull \hbox (1.4022pt too wide) in paragraph at lines 860--861
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+] 
+ []
+
+
+Overfull \hbox (1.4022pt too wide) in paragraph at lines 861--862
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][] 
+ []
+
+
+Overfull \hbox (1.4022pt too wide) in paragraph at lines 862--863
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][] 
+ []
+
+
+Overfull \hbox (1.4022pt too wide) in paragraph at lines 863--865
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][] 
+ []
+
+
+Overfull \hbox (1.4022pt too wide) in paragraph at lines 865--866
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][] 
+ []
+
+
+Overfull \hbox (1.4022pt too wide) in paragraph at lines 866--867
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][] 
+ []
+
+
+Overfull \hbox (1.4022pt too wide) in paragraph at lines 867--868
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][] 
+ []
+
+
+Overfull \hbox (1.4022pt too wide) in paragraph at lines 868--870
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][] 
+ []
+
+File: apu_comb_1_1.png Graphic file (type bmp)
+<apu_comb_1_1.png>
+Overfull \hbox (28.45274pt too wide) in paragraph at lines 881--881
+ [] 
+ []
+
+[21]
+File: apu_comb_1_2.png Graphic file (type bmp)
+ <apu_comb_1_2.png>
+Overfull \hbox (28.45274pt too wide) in paragraph at lines 882--882
+ [][] 
+ []
+
+File: apu_comb_1_3.png Graphic file (type bmp)
+<apu_comb_1_3.png>
+Overfull \hbox (28.45274pt too wide) in paragraph at lines 883--883
+ [][] 
+ []
+
+File: apu_comb_2_1.png Graphic file (type bmp)
+<apu_comb_2_1.png>
+Overfull \hbox (28.45274pt too wide) in paragraph at lines 885--885
+ [][] 
+ []
+
+[22]
+File: apu_comb_2_2.png Graphic file (type bmp)
+ <apu_comb_2_2.png>
+Overfull \hbox (28.45274pt too wide) in paragraph at lines 886--886
+ [][] 
+ []
+
+[23]
+File: apu_comb_2_3.png Graphic file (type bmp)
+ <apu_comb_2_3.png>
+Overfull \hbox (28.45274pt too wide) in paragraph at lines 887--887
+ [][] 
+ []
+
+[24]
+Overfull \vbox (10.61339pt too high) has occurred while \output is active []
+
+
+[25] [26] [27]
+File: Untitled_Diagram.png Graphic file (type bmp)
+ <Untitled_Diagram.png>
+Overfull \hbox (28.45274pt too wide) in paragraph at lines 1039--1039
+ [] 
+ []
+
+[28] (./CPU.aux) ) 
+Here is how much of TeX's memory you used:
+ 2811 strings out of 493693
+ 39947 string characters out of 6151665
+ 192410 words of memory out of 5000000
+ 6323 multiletter control sequences out of 15000+600000
+ 16430 words of font info for 65 fonts, out of 8000000 for 9000
+ 929 hyphenation exceptions out of 8191
+ 27i,8n,32p,932b,1639s stack positions out of 5000i,500n,10000p,500000b,80000s
+
+Output written on CPU.dvi (29 pages, 146552 bytes).
