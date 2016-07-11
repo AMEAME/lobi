@@ -1,1 +1,0 @@
--intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Users/ike/Desktop/ISE_workspace/CPU/alu_pp44_tb_isim_beh.exe" -prj "C:/Users/ike/Desktop/ISE_workspace/CPU/alu_pp44_tb_beh.prj" "work.alu_pp44_tb" "work.glbl" 

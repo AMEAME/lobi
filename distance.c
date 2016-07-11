@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <math.h>
 
+
 int distance(int a, int b, int c, int p, int q)
 {
     if (!(a || b)) return -1;

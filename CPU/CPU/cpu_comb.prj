@@ -1,5 +1,0 @@
-verilog work "op_decode.v"
-verilog work "mux4.v"
-verilog work "mux3.v"
-verilog work "alu_pp44.v"
-verilog work "cpu_comb.v"
